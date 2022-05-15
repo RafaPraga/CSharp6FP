@@ -1,0 +1,11 @@
+C:\Users\rafae\OneDrive\Documents\Software Self-learning\Deitel C++ C# Java Python\Repos\CSharp6FP\examples\ch02\ASimpleApp2\ASimpleApp2\bin\Debug\ASimpleApp2.exe.config
+C:\Users\rafae\OneDrive\Documents\Software Self-learning\Deitel C++ C# Java Python\Repos\CSharp6FP\examples\ch02\ASimpleApp2\ASimpleApp2\bin\Debug\ASimpleApp2.exe
+C:\Users\rafae\OneDrive\Documents\Software Self-learning\Deitel C++ C# Java Python\Repos\CSharp6FP\examples\ch02\ASimpleApp2\ASimpleApp2\bin\Debug\ASimpleApp2.pdb
+C:\Users\rafae\OneDrive\Documents\Software Self-learning\Deitel C++ C# Java Python\Repos\CSharp6FP\examples\ch02\ASimpleApp2\ASimpleApp2\obj\Debug\ASimpleApp2.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documents\Software Self-learning\Deitel C++ C# Java Python\Repos\CSharp6FP\examples\ch02\ASimpleApp2\ASimpleApp2\obj\Debug\ASimpleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\OneDrive\Documents\Software Self-learning\Deitel C++ C# Java Python\Repos\CSharp6FP\examples\ch02\ASimpleApp2\ASimpleApp2\obj\Debug\ASimpleApp2.Form1.resources
+C:\Users\rafae\OneDrive\Documents\Software Self-learning\Deitel C++ C# Java Python\Repos\CSharp6FP\examples\ch02\ASimpleApp2\ASimpleApp2\obj\Debug\ASimpleApp2.Properties.Resources.resources
+C:\Users\rafae\OneDrive\Documents\Software Self-learning\Deitel C++ C# Java Python\Repos\CSharp6FP\examples\ch02\ASimpleApp2\ASimpleApp2\obj\Debug\ASimpleApp2.csproj.GenerateResource.cache
+C:\Users\rafae\OneDrive\Documents\Software Self-learning\Deitel C++ C# Java Python\Repos\CSharp6FP\examples\ch02\ASimpleApp2\ASimpleApp2\obj\Debug\ASimpleApp2.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documents\Software Self-learning\Deitel C++ C# Java Python\Repos\CSharp6FP\examples\ch02\ASimpleApp2\ASimpleApp2\obj\Debug\ASimpleApp2.exe
+C:\Users\rafae\OneDrive\Documents\Software Self-learning\Deitel C++ C# Java Python\Repos\CSharp6FP\examples\ch02\ASimpleApp2\ASimpleApp2\obj\Debug\ASimpleApp2.pdb
